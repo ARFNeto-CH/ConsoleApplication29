@@ -1,0 +1,21 @@
+
+caso 1: mostra so as letras na saida
+
+"meio" de 'ovo' = v
+"meio" de 'andrÚ' = d
+"meio" de 'os' = os
+"meio" de 'amarelo' = r
+
+caso 2: cria uma string
+
+String: 'ovo'   Tamanho: 3      Meio: 'v'
+String: 'andrÚ' Tamanho: 5      Meio: 'd'
+String: 'os'    Tamanho: 2      Meio: 'os'
+String: 'amarelo'       Tamanho: 7      Meio: 'r'
+
+caso 3: deriva classe 'string'e cria metodo meio()
+
+String: 'ovo'   Tamanho: 3      Meio: 'v'
+String: 'andrÚ' Tamanho: 5      Meio: 'd'
+String: 'os'    Tamanho: 2      Meio: 'os'
+String: 'amarelo'       Tamanho: 7      Meio: 'r'
